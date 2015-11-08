@@ -26,8 +26,8 @@ var timeEvents = {
                 "text": "Long conflict leaves both empires exhausted and unable to cope with the newly united Arab armies under Islam in the 630s"
             },
             "coords" : {
-                "lng": 20,
-                "lat": 54
+                "lng": 45,
+                "lat": 40
             },
         },
         {
@@ -42,8 +42,8 @@ var timeEvents = {
                 "text": "Silla and Balhae coexisted in the south and north of the peninsula, respectively, until 926"
             },
             "coords" : {
-                "lng": 22,
-                "lat": 52
+                "lng": 127,
+                "lat": 37
             },
         }
     ]
